@@ -1,0 +1,29 @@
+.li-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 20px;
+}
+.list {
+  list-style-type: none;
+}
+.countryName {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+}
+.btn-cls {
+  height: 30px;
+  width: 60px;
+  color: #f1f5f9;
+  background-color: #3b82f6;
+  border: none;
+  border-radius: 5px;
+}
+.vist-para {
+  color: #94a3b8;
+}
+.br-cls {
+  color: #94a3b8;
+  height: 1px;
+  width: 100%;
+}

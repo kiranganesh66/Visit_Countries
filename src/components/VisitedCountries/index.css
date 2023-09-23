@@ -1,0 +1,28 @@
+.img-container {
+  margin-right: 10px;
+  list-style-type: none;
+}
+.country-image {
+  width: 300px;
+}
+.name-btn-container {
+  background-color: #1f1f2f;
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.para {
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+.btn-remove {
+  height: 30px;
+  width: 70px;
+  color: #f8fafc;
+  background-color: transparent;
+  border: 1px solid #f8fafc;
+  border-radius: 5px;
+}
